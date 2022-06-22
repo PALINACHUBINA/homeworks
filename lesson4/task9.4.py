@@ -1,0 +1,2 @@
+text =
+print(len(text))
